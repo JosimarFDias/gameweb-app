@@ -28,7 +28,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "docker": "docker build -t gameweb-app .",
-    "gameweb-api": "docker run -p 8081:80 gameweb-app"
+    "gameweb-app": "docker run -p 8081:80 gameweb-app"
   },
   "eslintConfig": {
     "extends": [
