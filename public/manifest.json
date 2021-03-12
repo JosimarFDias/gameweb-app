@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "GameWeb App",
+  "name": "App para manipulação de dados de Players em seus games",
   "icons": [
     {
       "src": "favicon.ico",
